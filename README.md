@@ -12,6 +12,5 @@ This is a simple Hello World program. Created to demonstrate Visual Studio Code,
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code & GitHub](https://code.visualstudio.com/docs/sourcecontrol/github)
 * [Python Print Function Guide](https://www.w3schools.com/python/ref_func_print.asp)
